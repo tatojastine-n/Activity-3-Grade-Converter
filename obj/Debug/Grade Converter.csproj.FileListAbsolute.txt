@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Grade Converter\bin\Debug\Grade Converter.exe.config
+C:\Users\HP\source\repos\Grade Converter\bin\Debug\Grade Converter.exe
+C:\Users\HP\source\repos\Grade Converter\bin\Debug\Grade Converter.pdb
+C:\Users\HP\source\repos\Grade Converter\obj\Debug\Grade Converter.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Grade Converter\obj\Debug\Grade Converter.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Grade Converter\obj\Debug\Grade Converter.exe
+C:\Users\HP\source\repos\Grade Converter\obj\Debug\Grade Converter.pdb
